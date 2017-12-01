@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/Views/Admin/editDepart.jsp=UTF-8
+encoding//WebContent/WEB-INF/Views/Admin/test.jsp=UTF-8
+encoding//WebContent/WEB-INF/Views/Admin/viewdetail.jsp=UTF-8
+encoding//WebContent/WEB-INF/Views/Home/index.jsp=UTF-8
+encoding//WebContent/inc/barAdmin.jsp=UTF-8
+encoding//WebContent/inc/staff.jsp=UTF-8
+encoding//WebContent/inc/top.jsp=UTF-8
+encoding//WebContent/libraries=UTF-8
+encoding//WebContent/libraries/ckeditor/plugins/wsc/dialogs/tmpFrameset.html=UTF-8
+encoding//WebContent/sources/i18n/messages_vi.properties=UTF-8
+encoding//src/Controller/AdminController.java=UTF-8
+encoding//src/Controller/LoginController.java=UTF-8
